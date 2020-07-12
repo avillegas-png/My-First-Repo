@@ -1,1 +1,1 @@
-# Wizard-Spell
+# Repository for canvas work
